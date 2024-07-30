@@ -1,0 +1,11 @@
+{
+  "name": "niesamowitastrona",
+  "version": "1.0.0",
+  "description": "niesamowitastronatworzonagrupowoprzezprogramistownajwyzszczegoszczebla",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "programisci",
+  "license": "ISC"
+}
